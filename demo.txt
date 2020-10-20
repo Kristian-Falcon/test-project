@@ -1,0 +1,17 @@
+Kristian Falcon
+
+git config --global user.name "theUSpopulation"
+
+git init 
+
+git status
+
+add demo.txt
+
+git status
+
+git commit -m "First commit"
+
+git remote add origin https://github.com/theUSpopulation.[project name].git
+
+git push -u origin master
