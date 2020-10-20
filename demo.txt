@@ -15,3 +15,10 @@ git commit -m "First commit"
 git remote add origin https://github.com/theUSpopulation.[project name].git
 
 git push -u origin master
+
+
+~~Branches~~
+
+git branch
+
+git branch myNewBranch
