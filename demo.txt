@@ -22,3 +22,7 @@ git push -u origin master
 git branch
 
 git branch myNewBranch
+
+git checkout myNewBranch
+
+git commit -m "Commit to MyNewBranch"
